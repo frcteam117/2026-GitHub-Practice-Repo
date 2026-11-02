@@ -1,0 +1,3 @@
+Congrats on cloning the repo! to show off your amazing committing skills 
+please add a line below (can say anything) and add your name to it so we know who said what
+Then commit it and push it so we can all see the wonderful messages everyone wrote
